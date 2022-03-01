@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Richard Temple about the breach of privilledge, upon the report.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02614</idno>
+            <idno type="STC">Wing C998</idno>
+            <idno type="STC">ESTC R170982</idno>
+            <idno type="EEBO-CITATION">52211935</idno>
+            <idno type="OCLC">ocm 52211935</idno>
+            <idno type="VID">175503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175503)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Richard Temple about the breach of privilledge, upon the report.</title>
+                  <author>Temple, Richard, Sir, 1634-1697.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temple, Richard, --  Sir, 1634-1697 --  Trials, litigation, etc.</term>
+               <term>Landlord and tenant --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175503:1" rendition="simple:additions"/>
+            <head>THE CASE OF S<hi rend="sup">IR</hi> RICHARD TEMPLE <hi>About the Breach of Privilledge, upon the</hi> REPORT.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1st."/> IT appears by the Order of the Houſe, refer'd to the Committee of Privilledges, that both Mr. <hi>Palms,</hi> and Sr. <hi>Richard</hi> were equally Complainants againſt each other, for a Breach of Privilledge; ſuppoſed to be committed by their re<g ref="char:EOLhyphen"/>ſpective Agents, Servants, or Tennants; which was to be decided againſt either of them, according as the Poſſeſſion ſhould fall out to be, at the mee<g ref="char:EOLhyphen"/>ting of this <hi>Parliament.</hi> Nevertheleſs at the Hearing, Sr. <hi>Richard</hi>'s Bayliff and Attorney, <hi>(viz.) Thorpe</hi> and <hi>Gallaway,</hi> becauſe they were named in his Com<g ref="char:EOLhyphen"/>plaint, were rejected: And Mr. <hi>Blackall,</hi> Mr. <hi>Palms</hi>'s Bayliff, who with Twenty Men, made a forcible Entry and Ryot, on Sr. <hi>Richard</hi>'s Poſſeſſion; of which number all the reſt of his Witneſſes were, (tho' equally complained of) admitted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2dly."/> It was agreed by Mr. <hi>Palms</hi>'s Council, that Sr. <hi>Richard</hi> had a Morgage of Inhe<g ref="char:EOLhyphen"/>ritance upon the <hi>Eſtate,</hi> which was ready to be produced; and both by Council and Witneſſes. That he was in quiet Poſſeſſion from <hi>November</hi> 1686. till the Death of Mrs. <hi>Danby</hi> in <hi>June</hi> laſt; and had received three half Years Rent before her Death, and all that was inſiſted upon, of any change or interuption of that Poſſeſſion, until the Diſturbance on the Fourteenth day of <hi>March</hi> laſt; was a pretended Attornment by ſome of the Tennants, to Mr. <hi>Palms</hi>'s Agent, in <hi>July</hi> and <hi>Auguſt</hi> following: But the manner of that Attornment was not other ways prov'd, but by a Paper given in, all Written by one hand, Purporting no more than a promiſe of paying their Rent to Mr. <hi>Palms;</hi> but not expreſſing that there was any actual Poſſeſſion given upon the Ground, nor have they in the leaſt proved, that any of the Tennants (except <hi>Peter Hood</hi>) was in Poſſeſſion of the <hi>Middle Field,</hi> or any part thereof, which was the only <hi>Place</hi> in queſtion, after their taking off the Cropp, until the day of the Diſturbance; being the Fourteenth of <hi>March</hi> laſt, when they entred with Twenty Men and Seven Plows, to Plow it forcibly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3dly."/> Sr. <hi>Richard Temple,</hi> hath clearly proved, that none of the Tennants mentioned, to have Attorn'd to Mr. <hi>Palms,</hi> or Rented any part of thoſe Lands in Diſpute ever ſince <hi>Lady</hi> Day 1688. (except <hi>Peter Hood,</hi> aforeſaid) who took a new Bargain of Lands; laid out by a new allotment, under a new Rent; the four Fields being reduced into three, and that the Old Tennants were diſcharged at <hi>Martlemas</hi> 1687, to leave at <hi>Lady</hi> Day 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. when their Leaſes ended, and did accordingly quietly leave all the Meadow, Paſture, and Fallow Field; and only had leave to take off their Cropp; af<g ref="char:EOLhyphen"/>terwards according to the Cuſtome of the place, paying for the Out-ſtands thereof, and that the new Tennants to whom it was let, quietly enjoyed their Bargains, till the Diſturbance which happened the Fourteenth of <hi>March</hi> 1688.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4thly."/> Take Notice that in their <hi>Reply,</hi> they have declined to maintain the Poſſeſſion to all the reſt, but as to <hi>Peter Hood;</hi> and that if the Attornment were good by him, being both an Old Tennant, and a new one, yet as to the other five Tennants, there was a cleare forcible Entry, and Breach of Privilledge committed by Mr. <hi>Palms</hi>'s Agent, upon Sr. <hi>Richard.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5thly."/> In the next place, Sr. <hi>Richard Temple</hi> doth inſiſt, that the pretended Attornment of the Old Tennants, whoſe Eſtates were determined, was abſolutely Void, and could not change the Poſſeſſion; and likewiſe, that the pretended Attornment of <hi>Peter Hood</hi> was Void, for that Mr. <hi>Palms</hi> having no Eſtate in Law; but an Equity of Redemp<g ref="char:EOLhyphen"/>tion, after a Mortgage of Inheritance, is not capable of taking any by Attornment, or acquiring any Poſſeſſion thereby.</p>
+            <p>
+               <hi>Laſtly,</hi> The diſturbance given to <hi>Peter Hood,</hi> was becauſe, that, that Field was to have layen Fallow by the new Agreement, which was to the Dammage of the Tennants, nor was there more done, than only to hinder his Plowing there, nor was his Poſſeſſion diſturbed in that, nor any of the reſt, he Enjoying it quietly to this day.</p>
+            <pb facs="tcp:175503:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
